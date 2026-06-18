@@ -85,9 +85,13 @@ const me = {
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
-![Snake](https://raw.githubusercontent.com/amhakimouse/amhakimouse/output/dist/github-snake-dark.svg)
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=amhakimouse&theme=github-dark&bg_color=0d1117&color=30d158&line=30d158&point=30d158&area_color=0d1117&hide_border=true)
+
+</div>
 
 ---
 
