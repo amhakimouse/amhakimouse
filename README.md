@@ -24,7 +24,7 @@
 | | | |  / \  | |/ /_ _|  \/  |
 | |_| | / _ \ | ' / | || |\/| |
 |  _  |/ ___ \| . \ | || |  | |
-|_| |_/_/   \_\_|\_\___|_|  |_|
+|_| |_/_/   \_\_\_\___|_|  |_|
 
 > role      : AI Automation Engineer & Full-Stack Developer
 > focus     : LLM apps · ML systems · automation pipelines
@@ -73,7 +73,7 @@ SEO automation: competitor analysis, article generation, social publishing.<br/>
 </td>
 <td width="50%" valign="top">
 
-**🧑‍💼 [GoHR](https://github.com/amhakimouse/REPO)**<br/>
+**🧑‍💼 [GoHR](https://github.com/amhakimouse/hr_assistant)**<br/>
 CV vectorization plus an AI agent that scores candidates and books interviews.<br/>
 <sub>`Python` `RAG` `Embeddings` `Gemini` `Docker`</sub>
 
@@ -82,7 +82,7 @@ CV vectorization plus an AI agent that scores candidates and books interviews.<b
 <tr>
 <td valign="top">
 
-**📑 [Auto Tender Writer](https://github.com/amhakimouse/REPO)**<br/>
+**📑 [Auto Tender Writer](https://github.com/amhakimouse/auto-tender-writer)**<br/>
 8-phase auditable tender evaluation: LLM plus a Python rule enforcer.<br/>
 <sub>`FastAPI` `LLM` `Pydantic`</sub>
 
@@ -101,14 +101,14 @@ Bulk certificate generator with AI design, built for event organizers.<br/>
 
 | | Project | What it does | Result |
 |:-:|---|---|---|
-| 🛡️ | [Fraud Detection](https://github.com/amhakimouse/REPO) | Flags fraudulent card transactions | `scikit-learn` |
-| 🏡 | [House Price Prediction](https://github.com/amhakimouse/REPO) | Real-estate valuation behind Nginx | `XGBoost` · 0.83 R² |
-| 💰 | [Gold Price Prediction](https://github.com/amhakimouse/REPO) | Forecasts GLD ETF prices | `RandomForest` · 98.9% R² |
-| 🎬 | [Movie Recommendation](https://github.com/amhakimouse/REPO) | Content-based recommender | `TF-IDF` · cosine similarity |
-| ✋ | [Digit Recognition](https://github.com/amhakimouse/REPO) | Draw a digit, the model predicts it | `TensorFlow` · MNIST |
-| 📧 | [Spam Mail Detection](https://github.com/amhakimouse/REPO) | Spam classifier with a clean UI | `Logistic Regression` |
-| 📊 | [Customer Churn](https://github.com/amhakimouse/REPO) | Churn probability gauge | `RandomForest` |
-| 🩺 | [Diabetes Prediction](https://github.com/amhakimouse/REPO) | PIMA dataset classifier | `SVM` · ~77% accuracy |
+| 🛡️ | [Fraud Detection](https://github.com/amhakimouse/Fraud-Detection) | Flags fraudulent card transactions | `scikit-learn` |
+| 🏡 | [House Price Prediction](https://github.com/amhakimouse/California-house-price-prediction) | Real-estate valuation behind Nginx | `XGBoost` · 0.83 R² |
+| 💰 | [Gold Price Prediction](https://github.com/amhakimouse/Gold-price-prediction) | Forecasts GLD ETF prices | `RandomForest` · 98.9% R² |
+| 🎬 | [Movie Recommendation](https://github.com/amhakimouse/Movie-Recommendation-System) | Content-based recommender | `TF-IDF` · cosine similarity |
+| ✋ | [Digit Recognition](https://github.com/amhakimouse/handwritten-digits-recognition) | Draw a digit, the model predicts it | `TensorFlow` · MNIST |
+| 📧 | [Spam Mail Detection](https://github.com/amhakimouse/spam-mail-detection) | Spam classifier with a clean UI | `Logistic Regression` |
+| 📊 | [Customer Churn](https://github.com/amhakimouse/customer-churn-predictor) | Churn probability gauge | `RandomForest` |
+| 🩺 | [Diabetes Prediction](https://github.com/amhakimouse/Diabetes-Prediction) | PIMA dataset classifier | `SVM` · ~77% accuracy |
 
 <div align="center">
 
